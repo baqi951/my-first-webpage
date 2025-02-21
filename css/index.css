@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+body{
+    background-color: blueviolet;
+}
+#staycalm{
+    height: 100px;
+    background-color: azure;
+}
+
+
