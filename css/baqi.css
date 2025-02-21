@@ -34,10 +34,13 @@ li {
     border-color: black; */ 
     border:red 4px solid;
     width: 500px;
-    border-radius: 250px;
+    border-radius: 10px;
 }
 #container{
     height: 400px;
     width: 400px;
-    border: 2px solid;]
+    border: 2px solid;
+}
+body{
+    background-color: chartreuse;
 }
